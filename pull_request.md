@@ -1,1 +1,0 @@
-This PR adds a GitHub Actions workflow to automatically build and deploy the Hugo static site to GitHub Pages. It includes support for Hugo Modules and Dart Sass.
