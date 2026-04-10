@@ -27,6 +27,12 @@ Applications are currently closed.
 
 
 {{< callout type="info" >}}
+### Adaptive Climbing
+
+For information about our adaptive climbing program, email <a href="mailto:adaptiveclimbing@ubc-aviary.com">adaptiveclimbing@ubc-aviary.com</a>.
+{{< /callout >}}
+
+{{< callout type="info" >}}
 ### Something Else
 
 If our website FAQ does not answer your question, <a href="mailto:info@ubc-aviary.com?&amp;body=Hello Aviary Volunteers,%0A%0AI checked the FAQ on the website but couldn't find the answer to this question: ">send us a message</a>
