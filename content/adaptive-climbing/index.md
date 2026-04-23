@@ -8,7 +8,11 @@ title: Adaptive Climbing
 
 The Aviary offers an adaptive climbing program to make the gym accessible for people with disabilities. Our goal is to provide every climber an appropriate level of challenge. We have full body harnesses, chest harnesses, counterweight pulley systems, weighted assist systems, padding, and hand hooks. We run adaptive climbing sessions every semester, we make some adaptive systems available during open hours, and we are available for individual sessions. There is no charge for any adaptive climbing.
 
-For more information, email [adaptiveclimbing@ubc-aviary.com](mailto:adaptiveclimbing@ubc-aviary.com)
+{{< callout type="info" >}}
+If you'd like to participate in our program, you may register your interest by filling out [this form](https://forms.gle/LtdWhvFau71nWGcD9) and we'll contact you with details about our next sessions.
+
+For more information, or if you'd like to volunteer as a belayer, email [adaptiveclimbing@ubc-aviary.com](mailto:adaptiveclimbing@ubc-aviary.com)
+{{< /callout >}}
 
 ## Accessible Transportation Options
 

@@ -29,7 +29,9 @@ Applications are currently closed.
 {{< callout type="info" >}}
 ### Adaptive Climbing
 
-For information about our adaptive climbing program, email <a href="mailto:adaptiveclimbing@ubc-aviary.com">adaptiveclimbing@ubc-aviary.com</a>.
+If you'd like to participate in our adaptive climbing program, register your interest by filling out <a href="https://forms.gle/LtdWhvFau71nWGcD9" target="_blank">this form</a> and we'll contact you with details about our next sessions.
+
+For more information, or if you'd like to volunteer as a belayer, email <a href="mailto:adaptiveclimbing@ubc-aviary.com">adaptiveclimbing@ubc-aviary.com</a>.
 {{< /callout >}}
 
 {{< callout type="info" >}}
