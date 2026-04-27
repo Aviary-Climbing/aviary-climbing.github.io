@@ -2,56 +2,21 @@
 title: "Current Routes"
 ---
 
-<!-- Here's what's currently set on our walls. Routes are identified by **anchor number** (the station on the wall), **hold colour**, and **grade** ([Yosemite Decimal System](https://en.wikipedia.org/wiki/Yosemite_Decimal_System)).
+Here's what's currently set on our walls. Routes are identified by **anchor number** (show in floorplan), **hold colour**, and **grade** ([Yosemite Decimal System](https://en.wikipedia.org/wiki/Yosemite_Decimal_System)). Some anchors are lead only.
 
-{{< callout type="info" >}}
-**New to climbing?** Look for routes graded **5.7–5.8** — they're great for beginners. Ask a volunteer if you need help finding one!
-{{< /callout >}} -->
+<h4>Floorplan:</h4>
 
-<!-- ===================================================================
-     FLOORPLAN / BIRD'S EYE VIEW
-     ===================================================================
-     To enable the floorplan image:
-     1. Place your bird's-eye-view image in:  static/img/floorplan.png
-        (or .jpg / .svg — update the src below to match)
-     2. Comment out the PLACEHOLDER block below
-     3. Uncomment the IMAGE block below it
-     =================================================================== -->
-
-<!-- PLACEHOLDER — remove this block once the floorplan image is ready -->
-<div id="floorplan-placeholder" style="
-  width: 100%;
-  min-height: 320px;
-  border: 2px dashed var(--route-border);
-  border-radius: 12px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  margin: 1.5rem 0;
-  background: var(--route-bg);
-  color: var(--route-muted);
-">
-  <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="opacity: 0.5;">
-    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
-    <circle cx="8.5" cy="8.5" r="1.5"/>
-    <polyline points="21 15 16 10 5 21"/>
-  </svg>
-  <span style="font-size: 1rem; font-weight: 600;">Floorplan Coming Soon</span>
-  <span style="font-size: 0.85rem; opacity: 0.7;">Bird's-eye view showing anchor locations</span>
-</div>
-<!-- END PLACEHOLDER -->
-
-<!-- IMAGE — uncomment this block once you've added the floorplan image to static/img/
+<!-- IMAGE -->
 <div style="width: 100%; margin: 1.5rem 0;">
-  <img src="/img/floorplan.png" alt="Bird's-eye view floorplan showing the location of each anchor on the climbing wall" style="
+  <img src="/img/floorplan.jpg" alt="Bird's-eye view floorplan showing the location of each anchor on the climbing wall" style="
     width: 100%;
     border-radius: 12px;
     border: 1px solid var(--route-border);
   ">
 </div>
 <!-- END IMAGE -->
+
+<h4>Routes:</h4><br>
 
 <div id="routes-app">
   <!-- Filters -->
